@@ -12,15 +12,14 @@
   "antiInbox": false,
   "language": "en",
   "notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
-  "nickNameBot": "[ . ] ◈➤ 𝗗𝗘𝗥𝗘𝗖𝗞 𝗔𝗜",
-  "prefix": ".",
+  "nickNameBot": "[ × ] ◈➤ 𝗞𝗬𝗟𝗘'𝗦 𝗔𝗜",
+  "prefix": "×",
   "adminOnly": {
     "enable": true,
     "ignoreCommand": []
   },
   "adminBot": [
-    "61557027725455", 
-    "100052395031835"
+  "100052395031835"
   ],
   "whiteListMode": {
     "enable": false,
